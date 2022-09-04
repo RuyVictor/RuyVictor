@@ -5,7 +5,7 @@
 
 </p>
 
-<h5 align="left"> Meu nome é Ruy Victor, sou desenvolvedor fullstack, atualmente estou cursando ciência da computação e irei continuar a programar até o resto de minha vida....
+<h5 align="left"> Meu nome é Ruy Victor, sou desenvolvedor fullstack, atualmente estou cursando ciência da computação e irei continuar a programar até o resto de minha vida 😂😂✌️....
 </h6>
 
 <br/>
