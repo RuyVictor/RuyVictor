@@ -4,9 +4,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RuyVictor.RuyVictor)
 
 </p>
-<img width="35%" alt="Github" src="https://cbswire.dk/wp-content/uploads/2021/02/team-work.gif" />
-<br/>
-<h6 align="left"> Meu nome é Ruy Victor, sou desenvolvedor web e atualmente estou cursando ciência da computação.
+
+<h5 align="left"> Meu nome é Ruy Victor, sou desenvolvedor fullstack, atualmente estou cursando ciência da computação e irei continuar a programar até o resto de minha vida....
 </h6>
 
 <br/>
